@@ -3,5 +3,3 @@ Here you will find jupyter notebooks and python scripts talking about Data Scien
 
 ### Here one can refer to Weekly Lecture with the serial order for understanding basic of Python, data analysis, visualization and machine learning.
 
-### Note:
-One will not find Weekly Lecture 7 as its a major project.
