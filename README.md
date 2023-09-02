@@ -18,7 +18,7 @@ Here you will find jupyter notebooks and python scripts talking about Data Scien
  - Support Vector Machines(SVM)
 
  ### Feature Selection
- [Reference](18_Weekly Lecture 18 - Feature selection.ipynb)
+ [Reference](https://github.com/rishi-wqd190004/DS_ML_Lectures/blob/main/18_Weekly%20Lecture%2018%20-%20Feature%20selection.ipynb)
  - Supervised:
     - Intrinsic:
         - Combining below two together
@@ -28,4 +28,4 @@ Here you will find jupyter notebooks and python scripts talking about Data Scien
     - Filter Method:
         - Features dropped based on their relation to output or how they are correlating to output.
         - Eg: Information Gain, Chi-Square Test, Fisher's score
-- Unsupervised:
+- Unsupervised
