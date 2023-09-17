@@ -4,6 +4,7 @@ Here you will find jupyter notebooks and python scripts talking about Data Scien
 ### Here one can refer to Weekly Lecture with the serial order for understanding basic of Python, data analysis, visualization and machine learning.
 
 ### Below are the links for reference:
+ - [SQL Joins](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
  - [Machine Learning Flow Chart](misc/ml.png)
  - [Linear Regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
  - [Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
